@@ -1,0 +1,51 @@
+img
+{
+padding-left: 45%;
+}
+h1
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+}
+.login
+{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(230, 220, 220);
+    padding-left: 35px;
+    width:30%;
+    margin-left:35%;
+}
+.email
+{
+    margin-top:-10%;
+    padding-left:-95% ;
+    
+}
+button
+{
+    background-color: #FF9C07;
+    border-radius: 5px;
+    padding:2%;
+    padding-left:40% ;
+    padding-right:43% ;
+}
+form input
+{
+    padding:2%;
+    padding-left:30% ;
+    padding-right:30% ;
+}
+p{
+    text-align: center;
+    left margin:;
+}
+#new{
+    background-color: #f1f1f0;
+    border-radius: 5px;
+    padding:0.5%;
+    padding-left:11% ;
+    padding-right:10% ;
+    margin-left: 535px;
+}
