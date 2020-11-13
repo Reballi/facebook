@@ -1,0 +1,83 @@
+body{
+    background-color:#f0f2f5;
+}
+#email
+{
+    background-color: white;
+
+    /* padding=50px; */
+}
+
+h1{
+    color: #1877F2;
+    font-family: 'Secular One', sans-serif;
+    font-weight:800;
+    font-size:xxx-large;
+    padding-top:10%;
+    padding-left:15%;
+    margin-bottom:-35px ;
+    
+    
+}
+#fb
+{
+        
+    padding-left:15%;
+    font-size:xx-large;
+    /* margin-top:-5px; */
+    padding-top:5px;
+
+}
+#side
+{
+    background-color: white;
+    float:right;
+    padding-top:1%;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:1%;
+    margin-right: 25%;
+    margin-top:-220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+#button{
+padding:15px;
+background-color: #166FE5;
+color:white;
+padding-right: 95px;
+padding-left: 95px;
+border-radius: 7px;
+
+}
+#reset
+{
+    padding-top: 23px;
+    color:#166FE5;
+    padding-top:15px;
+    padding-left:35px;
+
+
+}
+#button1{
+    background-color: #36A420;
+    color:white;
+    padding:15px;
+    border-radius: 7px;
+    margin-left: 25px;
+}
+aside{
+float:right;
+margin-top:0.5%;
+margin-left:29%;
+margin-right:22%;
+
+}
+form input
+{
+    padding:5px;
+    padding-left:11px ;
+    padding-right:51px ;
+    border-radius: 5px;
+
+}
